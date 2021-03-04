@@ -4,3 +4,5 @@ func(subt)
 
 subtra
 
+func(multiply)
+
